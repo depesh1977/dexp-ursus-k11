@@ -1,4 +1,4 @@
-# dexp-ursus-k11
+# dexp-ursus-k11-twrp9
 Модель Dexp Ursus K11
 Год релиза - 2019
 Операционная система - Android 9.x+
